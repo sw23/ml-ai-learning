@@ -3,6 +3,14 @@ Capturing interesting articles, videos, papers, and projects. Enjoy!
 
 ## 2025
 
+## Jun 26: Deep Learning: Getting Started 📚
+- High-level overview of Deep Learning concepts
+- Instructor: Kumaran Ponnambalam on [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started) (1hr 13m course)
+
+### Jun 26: Reinforcement Learning Foundations 📚
+- A brief intro to Reinforcement Learning
+- Instructor: Khaulat Abdulhakeem on [LinkedIn Learning](https://www.linkedin.com/learning/reinforcement-learning-foundations) (44m course)
+
 ### Jun 7: Assigning GitHub Copilot Work Items 🛠️
 - GitHub Copilot can be assigned tasks and will open Pull Requests
   ([source](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/assigning-issues-and-pull-requests-to-other-github-users))
