@@ -3,6 +3,11 @@ Capturing interesting articles, videos, papers, and projects. Enjoy!
 
 ## 2025
 
+## Jun 28: Google Gemini CLI 🛠 
+- Google Gemini CLI is a command line interface providing features similar to GitHub Copilot (but via the terminal)
+- Tested on removing a warning displayed in unit tests; not successful but the interface shows promise
+- [GitHub Repository](https://github.com/google-gemini/gemini-cli)
+
 ## Jun 26: Deep Learning: Getting Started 📚
 - High-level overview of Deep Learning concepts
 - Instructor: Kumaran Ponnambalam on [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started) (1hr 13m course)
