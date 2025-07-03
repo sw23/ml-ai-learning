@@ -3,21 +3,21 @@ Capturing interesting articles, videos, papers, and projects. Enjoy!
 
 ## 2025
 
-## Jul 2: Open-sourcing circuit tracing tools 📄
+### Jul 2: Open-sourcing circuit tracing tools 📄
 - Open source tool to visualize the circuits of Large Language Models
 - Author: [Anthropic](https://www.anthropic.com/) on [Anthropic Research](https://www.anthropic.com/research/open-source-circuit-tracing)
 - [Neuronpedia](https://www.neuronpedia.org/gemma-2-2b/graph), [GitHub Repository](https://github.com/safety-research/circuit-tracer)
 
-## Jul 2: MCP vs API: Simplifying AI Agent Integration with External Data 📺
+### Jul 2: MCP vs API: Simplifying AI Agent Integration with External Data 📺
 - Brief overview of MCP (Model Context Protocol)
 - Author: [IBM Technology](https://www.youtube.com/@IBMTechnology) on [YouTube](https://www.youtube.com/watch?v=7j1t3UZA1TY)
 
-## Jun 28: Google Gemini CLI 🛠 
+### Jun 28: Google Gemini CLI 🛠 
 - Google Gemini CLI is a command line interface providing features similar to GitHub Copilot (but via the terminal)
 - Tested on removing a warning displayed in unit tests; not successful but the interface shows promise
 - [GitHub Repository](https://github.com/google-gemini/gemini-cli)
 
-## Jun 26: Deep Learning: Getting Started 📚
+### Jun 26: Deep Learning: Getting Started 📚
 - High-level overview of Deep Learning concepts
 - Instructor: Kumaran Ponnambalam on [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started) (1hr 13m course)
 
