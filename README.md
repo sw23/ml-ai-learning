@@ -3,6 +3,10 @@ Capturing interesting articles, videos, papers, and projects. Enjoy!
 
 ## 2025
 
+### Jul 14: Created MCP Server for Hardware Design tools
+- Used [Python-SDK (FastMCP)](https://github.com/modelcontextprotocol/python-sdk) to create a Model Context Protocol (MCP) server for hardware design tools
+- [Model Context Protocol Documentation](https://modelcontextprotocol.io/introduction)
+
 ### Jul 2: Open-sourcing circuit tracing tools 📄
 - Open source tool to visualize the circuits of Large Language Models
 - Author: [Anthropic](https://www.anthropic.com/) on [Anthropic Research](https://www.anthropic.com/research/open-source-circuit-tracing)
@@ -12,7 +16,7 @@ Capturing interesting articles, videos, papers, and projects. Enjoy!
 - Brief overview of MCP (Model Context Protocol)
 - Author: [IBM Technology](https://www.youtube.com/@IBMTechnology) on [YouTube](https://www.youtube.com/watch?v=7j1t3UZA1TY)
 
-### Jun 28: Google Gemini CLI 🛠 
+### Jun 28: Google Gemini CLI 🛠
 - Google Gemini CLI is a command line interface providing features similar to GitHub Copilot (but via the terminal)
 - Tested on removing a warning displayed in unit tests; not successful but the interface shows promise
 - [GitHub Repository](https://github.com/google-gemini/gemini-cli)
