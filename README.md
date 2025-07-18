@@ -3,6 +3,11 @@ Capturing interesting articles, videos, papers, and projects. Enjoy!
 
 ## 2025
 
+### Jul 17: Hardware for ML and ML for Hardware Lecture 📺
+- Benefits of "tensor slices" (matrix mult blocks) in FPGAs to accelerate ML workloads
+- PPA tradeoffs of [Compute-RAMs](https://en.wikipedia.org/wiki/Computational_RAM) in FPGAs
+- Presenter: [Lizy K. John](https://www.ece.utexas.edu/people/faculty/lizy-john) on [YouTube](https://www.youtube.com/watch?v=wxcPbn9C42A)
+
 ### Jul 14: Created MCP Server for Hardware Design tools
 - Used [Python-SDK (FastMCP)](https://github.com/modelcontextprotocol/python-sdk) to create a Model Context Protocol (MCP) server for hardware design tools
 - [Model Context Protocol Documentation](https://modelcontextprotocol.io/introduction)
