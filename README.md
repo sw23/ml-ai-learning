@@ -3,6 +3,14 @@ Capturing interesting articles, videos, papers, and projects. Enjoy!
 
 ## 2025
 
+### Jul 20: Paper: Attention Is All You Need 📄
+- Paper introducing the Transformer architecture, an improvement over RNNs and CNNs
+- [Paper](https://arxiv.org/abs/1706.03762)
+
+### Jul 19: Paper: A Configurable Cloud-Scale DNN Processor for Real-Time AI 📄
+- Paper detailing Microsoft's BrainWave Neural Processing Unit (NPU) architecture
+- [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/06/ISCA18-Brainwave-CameraReady.pdf)
+
 ### Jul 17: Hardware for ML and ML for Hardware Lecture 📺
 - Benefits of "tensor slices" (matrix mult blocks) in FPGAs to accelerate ML workloads
 - PPA tradeoffs of [Compute-RAMs](https://en.wikipedia.org/wiki/Computational_RAM) in FPGAs
