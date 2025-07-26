@@ -3,13 +3,24 @@ Capturing interesting articles, videos, papers, and projects. Enjoy!
 
 ## 2025
 
+### Jul 25: Setup and Tested Claude Code 🛠
+- Set up [Claude Code](https://claude.ai/code) to analyze and [refactor code](https://github.com/sw23/life-model/pull/91)
+- Useful Links:
+  [Claude Code Setup](https://docs.anthropic.com/en/docs/claude-code/setup#install-and-authenticate),
+  [GitHub CLI](https://github.com/cli/cli),
+
+### Jul 23: Useful VS Code + GitHub Copilot Resources 📚
+- [GitHub Copilot in VS Code cheat sheet](https://code.visualstudio.com/docs/copilot/reference/copilot-vscode-features)
+- [Awesome GitHub Copilot Customizations](https://github.com/github/awesome-copilot)
+
+### Jul 22: Paper: Chain of Thought Monitorability 📄
+- [Paper](https://arxiv.org/abs/2507.11473) advocating for keeping chain of thought (CoT) in LLMs to improve interpretability and safety
+
 ### Jul 20: Paper: Attention Is All You Need 📄
-- Paper introducing the Transformer architecture, an improvement over RNNs and CNNs
-- [Paper](https://arxiv.org/abs/1706.03762)
+- [Paper](https://arxiv.org/abs/1706.03762) introducing the Transformer architecture, an improvement over RNNs and CNNs
 
 ### Jul 19: Paper: A Configurable Cloud-Scale DNN Processor for Real-Time AI 📄
-- Paper detailing Microsoft's BrainWave Neural Processing Unit (NPU) architecture
-- [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/06/ISCA18-Brainwave-CameraReady.pdf)
+- [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/06/ISCA18-Brainwave-CameraReady.pdf) detailing Microsoft's BrainWave Neural Processing Unit (NPU) architecture
 
 ### Jul 17: Hardware for ML and ML for Hardware Lecture 📺
 - Benefits of "tensor slices" (matrix mult blocks) in FPGAs to accelerate ML workloads
