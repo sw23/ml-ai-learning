@@ -2,6 +2,9 @@
 Capturing interesting articles, videos, papers, and projects. Enjoy!
 
 ## 2025
+### Aug 18: Visualizing Transformers and Attention 📺
+- Visualization of multi-headed attention and transformer computations
+- Author [Grant Sanderson](https://www.youtube.com/@GrantSanderson) on [YouTube](https://www.youtube.com/watch?v=KJtZARuO3JY)
 
 ### Jul 25: Setup and Tested Claude Code 🛠
 - Set up [Claude Code](https://claude.ai/code) to analyze and [refactor code](https://github.com/sw23/life-model/pull/91)
