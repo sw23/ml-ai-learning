@@ -2,9 +2,31 @@
 Capturing interesting articles, videos, papers, and projects. Enjoy!
 
 ## 2025
+
+### Sep 7: Paper: Retention is All You Need 📄
+- [Paper](https://arxiv.org/abs/2304.03103) Applies several ML models to predict employee attrition. Interesting insights and presents a good approach that could be leveraged in other domains
+
+### Aug 24: Paper: LoRA: Low-Rank Adaptation of Large Language Models 📄
+- [Paper](https://arxiv.org/abs/2106.09685) Efficient fine-tuning of large language models using low-rank adaptation (LoRA)
+
+### Aug 23: Paper: Learning to summarize from human feedback 📄
+- [Paper](https://arxiv.org/abs/2009.01325) Using human feedback and reinforcement learning to improve model performance
+
+### Aug 23: Paper: Improving Language Understanding by Generative Pre-Training 📄
+- [Paper](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) Paper introducing GPT (Generative Pre-Training Transformer)
+
+### Aug 23: Paper: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding 📄
+- [Paper](https://arxiv.org/abs/1810.04805) Paper introducing BERT (Bidirectional Encoder Representations from Transformers)
+
 ### Aug 18: Visualizing Transformers and Attention 📺
 - Visualization of multi-headed attention and transformer computations
 - Author [Grant Sanderson](https://www.youtube.com/@GrantSanderson) on [YouTube](https://www.youtube.com/watch?v=KJtZARuO3JY)
+
+### Aug 10: Paper: Mixture of Recusions 📄
+- [Paper](https://arxiv.org/abs/2507.10524) Proposes a new architecture to reduce training and deployment costs of LLMs
+
+### Jul 27: Paper: Small Language Models are The Future of Agentic AI 📄
+- [Paper](https://arxiv.org/abs/2506.02153) arguing that small language models (SLMs) are more efficient for agentic AI than large language models (LLMs)
 
 ### Jul 25: Setup and Tested Claude Code 🛠
 - Set up [Claude Code](https://claude.ai/code) to analyze and [refactor code](https://github.com/sw23/life-model/pull/91)
