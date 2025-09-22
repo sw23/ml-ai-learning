@@ -3,6 +3,17 @@ Capturing interesting articles, videos, papers, and projects. Enjoy!
 
 ## 2025
 
+### Sep 15-19: Hackathon Project: Training SLMs with ART (Agent Reinforcement Trainer) 🛠
+- Part of a project team training SLMs using [ART (Agent Reinforcement Trainer)](https://github.com/OpenPipe/ART)
+- Relevant Links:
+  [Kaggle: CUREBench Competition](https://www.kaggle.com/competitions/cure-bench),
+  [ToolUniverse: Scientific Model Context Protocol](https://github.com/mims-harvard/ToolUniverse)
+  [CURE-Bench Starter Kit](https://github.com/mims-harvard/CUREBench)
+  [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+  [TxAgent-T1 Model](https://huggingface.co/mims-harvard/TxAgent-T1-Llama-3.1-8B)
+  [Qwen3 Models](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f)
+
+
 ### Sep 7: Paper: Retention is All You Need 📄
 - [Paper](https://arxiv.org/abs/2304.03103) Applies several ML models to predict employee attrition. Interesting insights and presents a good approach that could be leveraged in other domains
 
