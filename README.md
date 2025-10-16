@@ -3,6 +3,16 @@ Capturing interesting articles, videos, papers, and projects. Enjoy!
 
 ## 2025
 
+### Oct 12: Trending AI Papers on Hugging Face 📄
+- A collection of trending AI papers curated by Hugging Face and upvoted by the community
+- [Hugging Face Daily Papers](https://huggingface.co/papers/month/2025-10)
+
+### Oct 4: Paper: Crossing the Reward Bridge 📄
+ - [Paper](https://arxiv.org/abs/2503.23829) Proposes extending reinforcement learning with verifiable rewards (RLVR) to domains that don't have well-defined boolean reward functions.
+
+### Sep 24: Paper: ChipNeMo: Domain-Adapted LLMs for Chip Design 📄
+- [Paper](https://arxiv.org/abs/2311.00176) ChipNeMo implements domain adaptation techniques to adapt LLMs to chip design (domain-adaptive tokenization, domain adaptive pretraining, retrieval-augmented generation, etc.).
+
 ### Sep 15-19: Hackathon Project: Training SLMs with ART (Agent Reinforcement Trainer) 🛠
 - Part of a project team training SLMs using [ART (Agent Reinforcement Trainer)](https://github.com/OpenPipe/ART)
 - Relevant Links:
