@@ -3,6 +3,9 @@ Capturing interesting articles, videos, papers, and projects. Enjoy!
 
 ## 2025
 
+### Oct 20: Paper: Video Models Are Zero Shot Learners and Reasoners 📄
+- [Paper](https://arxiv.org/abs/2509.20328) Shows that video models can perform some zero-shot learning and reasoning tasks already, and may be on track towards general-purpose visual understanding.
+
 ### Oct 12: Trending AI Papers on Hugging Face 📄
 - A collection of trending AI papers curated by Hugging Face and upvoted by the community
 - [Hugging Face Daily Papers](https://huggingface.co/papers/month/2025-10)
