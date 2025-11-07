@@ -3,11 +3,19 @@ Capturing interesting articles, videos, papers, and projects. Enjoy!
 
 ## 2025
 
+### Nov 6: Bing Image Generator 🖼
+- Experimented with [Bing Image Generator](https://www.bing.com/images/create) to create images using DALLE-3 and MAI-Image-1.
+- DALLE-3 images looked more like drawings or digital design, while MAI-Image-1 looked more like Microsoft Clip Art.
+
+### Nov 4: Microsoft Certified: Azure AI Fundamentals certification 📜
+- Completed the [AI-900: Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification) certification exam.
+- Topics included AI/ML concepts and model types, responsible AI, and Azure AI/ML services.
+
 ### Oct 20: Paper: Video Models Are Zero Shot Learners and Reasoners 📄
 - [Paper](https://arxiv.org/abs/2509.20328) Shows that video models can perform some zero-shot learning and reasoning tasks already, and may be on track towards general-purpose visual understanding.
 
 ### Oct 12: Trending AI Papers on Hugging Face 📄
-- A collection of trending AI papers curated by Hugging Face and upvoted by the community
+- A collection of trending AI papers curated by Hugging Face and upvoted by the community.
 - [Hugging Face Daily Papers](https://huggingface.co/papers/month/2025-10)
 
 ### Oct 4: Paper: Crossing the Reward Bridge 📄
