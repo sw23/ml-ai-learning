@@ -3,9 +3,18 @@ Capturing interesting articles, videos, papers, and projects. Enjoy!
 
 ## 2025
 
+### Nov 21: Learn the basics of Google Antigravity 📺
+- Overview of Google Antigravity, featuring AI control of the browser, artifacts, and agent orchestration
+- Author: [Google Antigravity](https://www.youtube.com/@googleantigravity) on [YouTube](https://www.youtube.com/watch?v=nTOVIGsqCuY)
+
+### Nov 21: Creating images with Gemini 3 + Nano Banana
+- Experimented with [Google Gemini 3](https://gemini.google/) with Nano Banana to create website favicons.
+- Images generated with 'Thinking with 3 Pro' followed the prompt better than those generated with 'Fast' mode.
+
 ### Nov 6: Bing Image Generator 🖼
 - Experimented with [Bing Image Generator](https://www.bing.com/images/create) to create images using DALLE-3 and MAI-Image-1.
 - DALLE-3 images looked more like drawings or digital design, while MAI-Image-1 looked more like Microsoft Clip Art.
+- MAI-Image-1 was better at following complex prompts.
 
 ### Nov 4: Microsoft Certified: Azure AI Fundamentals certification 📜
 - Completed the [AI-900: Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification) certification exam.
