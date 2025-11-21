@@ -11,6 +11,9 @@ Capturing interesting articles, videos, papers, and projects. Enjoy!
 - Experimented with [Google Gemini 3](https://gemini.google/) with Nano Banana to create website favicons.
 - Images generated with 'Thinking with 3 Pro' followed the prompt better than those generated with 'Fast' mode.
 
+### Nov 17: Inside Maia 100 📺
+- [Slides](https://hc2024.hotchips.org/assets/program/conference/day2/81_HC2024.Microsoft.Xu.Ramakrishnan.final.v2.pdf) and [video](https://www.youtube.com/watch?v=kCXcZf4glcM&t=1917s) detailing the architecture of the Azure Maia 100 AI accelerator chip
+
 ### Nov 6: Bing Image Generator 🖼
 - Experimented with [Bing Image Generator](https://www.bing.com/images/create) to create images using DALLE-3 and MAI-Image-1.
 - DALLE-3 images looked more like drawings or digital design, while MAI-Image-1 looked more like Microsoft Clip Art.
