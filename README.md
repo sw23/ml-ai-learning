@@ -1,10 +1,33 @@
 # ML / AI Learning Path
 Capturing interesting articles, videos, papers, and projects. Enjoy!
 
+## 2026
+
+### Feb 16: Automating Android app testing with Mobile-MCP 🛠
+- Used [Mobile-MCP](https://github.com/mobile-next/mobile-mcp) to automate testing of Android User Interface on the emulator.
+- GitHub Copilot Agents able to use MCP server and adb commands to visually test app changes.
+
+### Feb 14: Added support for WebMCP to fp-conv tool 🛠
+- Added Javascript API calls for [proposed WebMCP protocol](https://github.com/webmachinelearning/webmcp/blob/main/docs/proposal.md) to [fp-conv](https://github.com/sw23/fp-conv/pull/18).
+- WebMCP allows AI Agents to leverage web-based tools and APIs in a browser.
+
+## Jan 26: Deep Dive into Maia 200 Architecture 📺
+- [Blog post](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) and [video](https://blogs.microsoft.com/blog/2026/01/26/maia-200-the-ai-accelerator-built-for-inference/) detailing the architecture of the Azure Maia 200 AI accelerator chip.
+- [Tech Blog post](https://techcommunity.microsoft.com/blog/azureinfrastructureblog/deep-dive-into-the-maia-200-architecture/4489312) contains a closer look at the design, including details about the enhanced Tensor Core.
+- "An integrated reshaper up‑converts low‑precision formats at line rate prior to computation, ensuring seamless dataflow without introducing bottlenecks."
+
+## Jan 24: Testing Google Antigravity for web development 🛠
+- Used [Google Antigravity](https://antigravity.google/) to inspect and clean-up visual aspects of the [fp-conv](https://sw23.github.io/fp-conv/) tool in the browser.
+- Ability to control the browser is promising but I ended up completing the task in VS Code with GitHub Copilot (using manually captured screenshots).
+
 ## 2025
 
+### Dec 5-12: Google DeepMind - Vibe Code with Gemini 3 Pro in AI Studio 🛠
+- Participated in the [Kaggle DeepMind Hackathon](https://www.kaggle.com/competitions/gemini-3), 1 of 4099 projects submitted.
+- Used [Google Gemini 3 Pro](https://gemini.google/) in [Google AI Studio](https://ai.google.dev/studio) to create cooking science simulator.
+
 ### Nov 21: Learn the basics of Google Antigravity 📺
-- Overview of Google Antigravity, featuring AI control of the browser, artifacts, and agent orchestration
+- Overview of Google Antigravity, featuring AI control of the browser, artifacts, and agent orchestration.
 - Author: [Google Antigravity](https://www.youtube.com/@googleantigravity) on [YouTube](https://www.youtube.com/watch?v=nTOVIGsqCuY)
 
 ### Nov 21: Creating images with Gemini 3 + Nano Banana
