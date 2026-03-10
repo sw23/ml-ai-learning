@@ -3,6 +3,18 @@ Capturing interesting articles, videos, papers, and projects. Enjoy!
 
 ## 2026
 
+### Mar 4: VS-Code built-in browser agent tool 🛠
+- Tested the built-in browser agent tool in VS Code [Browser Agent Testing Guide](https://code.visualstudio.com/docs/copilot/guides/browser-agent-testing-guide).
+- Enabled rapid testing of [fp-conv](https://sw23.github.io/fp-conv/) UI and function.
+
+### Mar 1: Copilot instruction/agent/prompt/skill instructions 📄
+- The following GitHub Copilot instruction files have been helpful for generating new instructions, agents, prompts, and skills:
+  - [Copilot Instructions](https://github.com/github/awesome-copilot/blob/main/instructions/instructions.instructions.md)
+  - [Copilot Agents](https://github.com/github/awesome-copilot/blob/main/instructions/agents.instructions.md)
+  - [Copilot Prompts](https://github.com/github/awesome-copilot/blob/main/instructions/prompt.instructions.md)
+  - [Copilot Skills](https://github.com/github/awesome-copilot/blob/main/instructions/agent-skills.instructions.md)
+  - Github Copilot can fetch these directly using `fetch_tool` calls in the prompt.
+
 ### Feb 16: Automating Android app testing with Mobile-MCP 🛠
 - Used [Mobile-MCP](https://github.com/mobile-next/mobile-mcp) to automate testing of Android User Interface on the emulator.
 - GitHub Copilot Agents able to use MCP server and adb commands to visually test app changes.
